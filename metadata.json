@@ -1,0 +1,6 @@
+{
+  "name": "Café Companion - Artisanal Brew & Ambient Hospitality",
+  "description": "Sensory Brew Concierge, Predictive Visits & Live Vibe, Community Table, Barista Room Radar, Recipe Studio, and Internal Cafe Team Revenue Analytics powered by Google Gemini and Cloud architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
